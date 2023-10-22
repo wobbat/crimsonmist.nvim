@@ -1,6 +1,3 @@
-"     ┏┏┓ o ┳━┓ ┓━┓ ┏┏┓ ┳━┓
-"     ┃┃┃ ┃ ┃━┫ ┗━┓ ┃┃┃ ┃━┫
-"     ┛ ┇ ┇ ┛ ┇ ━━┛ ┛ ┇ ┛ ┇
 " a fog descends upon your editor
 " https://github.com/wobbat/crimsonmist.nvim
 
