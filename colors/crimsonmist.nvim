@@ -2,7 +2,7 @@
 "     ┃┃┃ ┃ ┃━┫ ┗━┓ ┃┃┃ ┃━┫
 "     ┛ ┇ ┇ ┛ ┇ ━━┛ ┛ ┇ ┛ ┇
 " a fog descends upon your editor
-" https://github.com/xero/miasma.nvim
+" https://github.com/wobbat/crimsonmist.nvim
 
 set background=dark
 hi! clear
@@ -11,8 +11,8 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name="miasma"
-let g:colors_name="miasma"
+let colors_name="crimsonmist"
+let g:colors_name="crimsonmist"
 
 hi Boolean guifg=#78834b guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi ColorColumn guifg=NONE guibg=#222222 guisp=NONE blend=NONE gui=NONE
