@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- miasma by xero https://x-e.ro -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -25,7 +24,7 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.34117648005485535</real>
+		<real>0.26666668057441711</real>
 		<key>Red Component</key>
 		<real>0.40784314274787903</real>
 	</dict>
@@ -203,13 +202,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.25882354378700256</real>
+		<real>0.40784314274787903</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.34117648005485535</real>
+		<real>0.4117647111415863</real>
 		<key>Red Component</key>
-		<real>0.40784314274787903</real>
+		<real>0.52549022436141968</real>
 	</dict>
 	<key>Background Color</key>
 	<dict>
@@ -340,6 +339,19 @@
 		<real>0.76831251382827759</real>
 		<key>Red Component</key>
 		<real>0.896087646484375</real>
+	</dict>
+	<key>Tab Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.40392157435417175</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.30980393290519714</real>
+		<key>Red Component</key>
+		<real>0.17647059261798859</real>
 	</dict>
 </dict>
 </plist>
